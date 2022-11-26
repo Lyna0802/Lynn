@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<ol> 
+    <li><b>Họ và tên:</b></li>
+        <p>Nguyễn Thị Vân Anh</p>
+        <img src="C:\Users\ADMIN\Downloads\the girl.jpg" width="200" height="300">
+    <li><b> Địa chỉ: </b></li>  
+        <p> Số nhà 15- ngách 8- ngõ 118- phường Quan Hoa- quận Cầu Giấy- thành phố Hà Nội.</p>
+    <li><b> Số điện thoại: </b></li>
+        <p> 0914863175</p>
+    <li><b> Email:</b> </li>
+        <p> nguyenthivananh1212@gmail.com</p>
+    <li> Học vấn: <p> Đại học </p></li>
+    <li><b>Bằng cấp: </b></li>
+        <p> -Bằng tốt nghiệp Đại học</p>
+        <p> -Bằng cử nhân Đại học</p>
+    <li> <b>Kỹ năng:</b> </li>
+        <p> -Giao tiếp thành thạo Tiếng Anh, Tiếng Trung và Tiếng Nhật.</p>
+        <p> -Thành thạo Tin học văn phòng MOS </p>
+    <li><b> Kinh nghiệm:</b> </li>
+        <p> -Đã từng làm việc ở vị trí Trưởng phòng Marketing tại công ty Unilever.</p>
+        <P> -Làm việc tại Công ty CP Vincom Retail. </P>
+    <li><b> Định hướng phát triển cá nhân: </b></li>
+        <p> -Trong 2 năm tới: Thành thạo thêm ngôn ngữ mới (Tiếng Hàn).</p>
+        <p> -Trong 5 năm: Trở thành nhân viên cốt cán của công ty </p>
+    <li><b>Link facebook:</b></li>
+        <a href="https://www.facebook.com/vanly311298"> Click here for more contact</a>
+    <li> <iframe src="C:\Users\ADMIN\OneDrive\Documents\HTML\1150396155775579206.mp4" height="200" width="300"></iframe></li>
+</ol>
+</body>
+</html>
