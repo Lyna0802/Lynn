@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+<style>
+td {
+    	border: 1px solid rgb(132, 130, 130);
+}
+</style>
+<body>
+  <style>
+    h1 {
+      color: blue;
+    }
+    </style>
+<h1> <center>Tháng 10- October</center> </h1>
+
+<table style="width:100%" style="color:white">
+  <tr>
+    <th><p style="background-color:red;">C.Nhật</p> </th>
+    <th><p style="background-color:orange;">T.Hai</p></th>
+    <th><p style="background-color:orange;">T.Ba</p></th>
+    <th><p style="background-color:orange;">T.Tư</p></th>
+    <th><p style="background-color:orange;">T.Năm</p></th>
+    <th><p style="background-color:orange;">T.Sáu</p></th>
+    <th><p style="background-color:blue;">T.Bảy</p></th>
+  </tr>
+  <tr>
+  <th><p style="color:red;">Sun</p> </th>
+  <th><p style="color:orange;">Mon</p></th>
+  <th><p style="color:orange;">Tue</p></th>
+  <th><p style="color:orange;">Wed</p></th>
+  <th><p style="color:orange;">Thu</p></th>
+  <th><p style="color:orange;">Fri</p></th>
+  <th><p style="color:blue;">Sat</p></th>
+</tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>1<sub>13</sub></td>
+    <td>2<sub>14</sub></td>
+    <td style="color:blue;">3<small style="color:black;"><sub>15</sub></small></td>
+  </tr>
+  <tr>
+    <td style="color:red;">4<small style="color:black;"><sub>16</sub></small></td>
+    <td>5<small><sub>17</sub></small></td>
+    <td>6<small><sub>18</sub></small></td>
+    <td>7<small><sub>19</sub></small></td>
+    <td>8<small><sub>20</sub></small></td>
+    <td>9<small><sub>21</sub></small></td>
+    <td style="color:blue;">10<small style="color:black;"><sub>22</sub></small></td>
+  </tr>
+  <tr>
+  	<td style="color:red;">11<small style="color:black;"><sub>23</sub></small></td>
+    <td>12<small><sub>24</sub></small></td>
+    <td>13<small><sub>25</sub></small></td>
+    <td>14<small><sub>26</sub></small></td>
+    <td>15<small><sub>27</sub></small></td>
+    <td>16<small><sub>28</sub></small></td>
+    <td style="color:blue;">17<small style="color:black;"><sub>29</sub></small></td>
+  </tr>
+  <tr>
+  	<td style="color: red;">18<small style="color:black;"><sub>1.9</sub></small></td>
+    <td>19<small><sub>2</sub></small></td>
+    <td>20<small><sub>3</sub></small></td>
+    <td>21<small><sub>4</sub></small></td>
+    <td>22<small><sub>5</sub></small></td>
+    <td>23<small><sub>6</sub></small></td>
+    <td style="color:blue;">24<small style="color:black;"><sub>7</sub></small></td>
+  </tr>
+  <tr>
+  	<td style="color:red;">25<small style="color:black;"><sub>8</sub></small></td>
+    <td>26<small><sub>9</sub></small></td>
+    <td>27<small><sub>10</sub></small></td>
+    <td>28<small><sub>11</sub></small></td>
+    <td>29<small><sub>12</sub></small></td>
+    <td>30<small><sub>13</sub></small></td>
+    <td style="color:blue;">31<small style="color:black;"><sub>14</sub></small></td> 
+  </tr>
+
+
+</table>
+
+</body>
+</html>
+
