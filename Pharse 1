@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html>
+<body>
+<title>Pharse 1 HTML</title>
+<style>
+body,h2,h3 {font-family: "Times New Roman",font-size:"'Times New Roman', Times, serif"}
+</style>
+<!--Header--> 
+<div class="Home" id="home"><a href="#home">LOGO</a></div>
+<a href="#about">ABOUT</a>
+<a href="#team">TEAM</a>
+<a href="#work">WORK</a>
+<a href="#pricing">PRICING</a>
+<a href="#contact">CONTACT</a>
+</div>
+<div>
+<p>Start something that matter</p>
+<p>Stop wasting valuable time with projects that just isn't you.</p>
+<p><a href="#about"> Learn more and start today</a></p>
+</div>
+<!--Main-->
+<!-- About Section -->
+<div class="About" id="about">
+    <h3>ABOUT THE COMPANY</h3>
+    <p>Key features of our company</p>
+        <p>Responsive</p>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.</p>
+        <p>Passion</p>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.</p>
+        <p>Design</p>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.</p>
+        <p>Support</p>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.</p>
+</div>
+<div>
+    <h3> We know design</h3>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.</p>
+    <a href="#work"> View our work</a>
+</div>
+<!-- Team Section -->
+<div class="Team" id="team">
+    <h3> THE TEAM</h3>
+    <h3>John Doe</h3>
+    <p style="color:grey"> CEO & Founder</p>
+    <p>Phasellus eget enim eu lectus faucibus vestibulum. Suspendisse sodales pellentesque elementum.</p>
+    <p><a href="#email">Contact</a></p>
+    <h3>Anja Doe</h3>
+    <p style="color:grey"> Art Director</p>
+    <p>Phasellus eget enim eu lectus faucibus vestibulum. Suspendisse sodales pellentesque elementum.</p>
+    <p><a href="#email">Contact</a></p>
+    <h3>Mike Ross</h3>
+    <p style="color:grey"> Web Designer</p>
+    <p>Phasellus eget enim eu lectus faucibus vestibulum. Suspendisse sodales pellentesque elementum.</p>
+    <p><a href="#email">Contact</a></p>
+    <h3>Dan Star</h3>
+    <p style="color:grey"> Designer</p>
+    <p>Phasellus eget enim eu lectus faucibus vestibulum. Suspendisse sodales pellentesque elementum.</p>
+    <p><a href="#email">Contact</a></p>
+</div>
+<!-- Statistic-->
+<div>
+    <div>
+        <span>14+</span>
+        <br>Partners
+      </div>
+      <div>
+        <span>55+</span>
+        <br>Projects Done
+      </div>
+      <div>
+        <span>89+</span>
+        <br>Happy Clients
+      </div>
+      <div>
+        <span>150+</span>
+        <br>Meetings
+      </div>
+</div>
+<!-- Work Section -->
+<div class="Work" id="work">
+    <h3>OUR WORK</h3>
+    <p>What we've done for people</p>
+    <div>
+        <div>
+            <img src="https://www.w3schools.com/w3images/tech_mic.jpg" style="width:15%" onclick="Click" alt="A microphone">
+            <img src="https://www.w3schools.com/w3images/tech_phone.jpg" style="width:15%" onclick="Click" alt="A phone">
+            <img src="https://www.w3schools.com/w3images/tech_drone.jpg" style="width:15%" onclick="Click" alt="A drone">
+            <img src="https://www.w3schools.com/w3images/tech_sound.jpg" style="width:15%" onclick="Click" alt="Soundbox">
+        </div>
+        <div>
+            <img src="https://www.w3schools.com/w3images/tech_tablet.jpg" style="width:15%" onclick="Click" alt="A tablet"> 
+            <img src="https://www.w3schools.com/w3images/tech_camera.jpg" style="width:15%" onclick="Click" alt="A camera">
+            <img src="https://www.w3schools.com/w3images/tech_typewriter.jpg" style="width:15%" onclick="Click" alt="A typewriter">
+            <img src="https://www.w3schools.com/w3images/tech_tableturner.jpg" style="width:15%" onclick="Click" alt="A tableturner">
+        </div>
+    </div>
+<!-- Skills-->
+<div>
+    <div>
+        <h3>Our Skills.</h3>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod<br>
+        tempor incididunt ut labore et dolore.</p>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod<br>
+        tempor incididunt ut labore et dolore.</p>
+    </div>
+    <div>
+        <div>
+            <p>Photography</p>
+            <div>90%</div>
+        </div>
+        <div>
+            <p>Web Design</p>
+            <div>85%</div>
+        </div>
+        <div>
+            <p>Photoshop</p>
+            <div>75%</div>
+        </div>
+    </div>
+</div>
+<!-- Pricing Section -->
+<div class="Pricing" id="pricing">
+    <h3>PRICING</h3>
+    <p>Choose a pricing plan that fits your needs.</p>
+    <div>
+      <div>
+        <ul>
+          <li>Basic</li>
+          <li><b>10GB</b> Storage</li>
+          <li><b>10</b> Emails</li>
+          <li><b>10</b> Domains</li>
+          <li><b>Endless</b> Support</li>
+          <li>
+            <h2>$10</h2>
+            <p style="color:grey">per month</p>
+          </li>
+          <li>
+            <button>Sign Up</button>
+          </li>
+        </ul>
+      </div>
+      <div>
+        <ul>
+          <li>Pro</li>
+          <li><b>25GB</b> Storage</li>
+          <li><b>25</b> Emails</li>
+          <li><b>25</b> Domains</li>
+          <li><b>Endless</b> Support</li>
+          <li>
+            <h2>$25</h2>
+            <p style="color:grey">per month</p>
+          </li>
+          <li>
+            <button>Sign Up</button>
+          </li>
+        </ul>
+      </div>
+      <div>
+        <ul>
+          <li>Premium</li>
+          <li><b>50GB</b> Storage</li>
+          <li><b>50</b> Emails</li>
+          <li><b>50</b> Domains</li>
+          <li><b>Endless</b> Support</li>
+          <li>
+            <h2>$50</h2>
+            <p style="color:grey"> per month</p>
+          </li>
+          <li>
+            <button>Sign Up</button>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>  
+<!--Contact Section-->
+<div class="Contact" id="contact">
+        <h3>CONTACT</h3>
+        <p>Lets get in touch. Send us a message:</p>
+        <div>
+          <p> Chicago, US</p>
+          <p> Phone: +00 151515</p>
+          <p> Email: mail@mail.com</p>
+          <br>
+          <form action="/action_page.php" target="_blank">
+            <p><input type="text" placeholder="Name" required name="Name"></p>
+            <p><input type="text" placeholder="Email" required name="Email"></p>
+            <p><input type="text" placeholder="Subject" required name="Subject"></p>
+            <p><input type="text" placeholder="Message" required name="Message"></p>
+            <p><button type="submit"> SEND MESSAGE</button></p>
+          </form>
+            <img src="https://www.w3schools.com/w3images/map.jpg" alt="A map picture in here">
+        </div>
+</div>
+<!--Footer--> 
+<footer>
+    <a href="#home">To the top</a>
+    <p>Powered by <a href="https://www.w3schools.com/w3css/default.asp">w3.css</a></p>
+</footer>
+</body>
+</html>
