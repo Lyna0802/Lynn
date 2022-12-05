@@ -2,9 +2,6 @@
 <html>
 <body>
 <title>Pharse 1 HTML</title>
-<style>
-body,h2,h3 {font-family: "Times New Roman",font-size:"'Times New Roman', Times, serif"}
-</style>
 <!--Header--> 
 <div class="Home" id="home"><a href="#home">LOGO</a></div>
 <a href="#about">ABOUT</a>
@@ -41,25 +38,25 @@ body,h2,h3 {font-family: "Times New Roman",font-size:"'Times New Roman', Times, 
 <div class="Team" id="team">
     <h3> THE TEAM</h3>
     <h3>John Doe</h3>
-    <p style="color:grey"> CEO & Founder</p>
+    <p> CEO & Founder</p>
     <p>Phasellus eget enim eu lectus faucibus vestibulum. Suspendisse sodales pellentesque elementum.</p>
-    <p><a href="#email">Contact</a></p>
+    <p><button><a href="#email">Contact</a></button></p>
     <h3>Anja Doe</h3>
-    <p style="color:grey"> Art Director</p>
+    <p> Art Director</p>
     <p>Phasellus eget enim eu lectus faucibus vestibulum. Suspendisse sodales pellentesque elementum.</p>
-    <p><a href="#email">Contact</a></p>
+    <p><button><a href="#email">Contact</a></button></p>
     <h3>Mike Ross</h3>
-    <p style="color:grey"> Web Designer</p>
+    <p> Web Designer</p>
     <p>Phasellus eget enim eu lectus faucibus vestibulum. Suspendisse sodales pellentesque elementum.</p>
-    <p><a href="#email">Contact</a></p>
+    <p><button><a href="#email">Contact</a></button></p>
     <h3>Dan Star</h3>
-    <p style="color:grey"> Designer</p>
+    <p> Designer</p>
     <p>Phasellus eget enim eu lectus faucibus vestibulum. Suspendisse sodales pellentesque elementum.</p>
-    <p><a href="#email">Contact</a></p>
+    <p><button><a href="#email">Contact</a></button></p>
 </div>
 <!-- Statistic-->
 <div>
-    <div>
+      <div>
         <span>14+</span>
         <br>Partners
       </div>
@@ -79,20 +76,20 @@ body,h2,h3 {font-family: "Times New Roman",font-size:"'Times New Roman', Times, 
 <!-- Work Section -->
 <div class="Work" id="work">
     <h3>OUR WORK</h3>
-    <p>What we've done for people</p>
+    <p>What we've done for people.</p>
     <div>
-        <div>
-            <img src="https://www.w3schools.com/w3images/tech_mic.jpg" style="width:15%" onclick="Click" alt="A microphone">
-            <img src="https://www.w3schools.com/w3images/tech_phone.jpg" style="width:15%" onclick="Click" alt="A phone">
-            <img src="https://www.w3schools.com/w3images/tech_drone.jpg" style="width:15%" onclick="Click" alt="A drone">
-            <img src="https://www.w3schools.com/w3images/tech_sound.jpg" style="width:15%" onclick="Click" alt="Soundbox">
-        </div>
-        <div>
-            <img src="https://www.w3schools.com/w3images/tech_tablet.jpg" style="width:15%" onclick="Click" alt="A tablet"> 
-            <img src="https://www.w3schools.com/w3images/tech_camera.jpg" style="width:15%" onclick="Click" alt="A camera">
-            <img src="https://www.w3schools.com/w3images/tech_typewriter.jpg" style="width:15%" onclick="Click" alt="A typewriter">
-            <img src="https://www.w3schools.com/w3images/tech_tableturner.jpg" style="width:15%" onclick="Click" alt="A tableturner">
-        </div>
+      <div>
+        <img src="microphone.jpg"  alt="A microphone"></img>
+        <img src="phone.jpg" alt="A phone"></img>
+        <img src="drone.jpg" alt="A drone"></img>
+        <img src="soundbox.jpg" alt="Soundbox"></img>
+      </div>
+      <div>
+        <img src="tablet.jpg" alt="A tablet"> 
+        <img src="camera.jpg" alt="A camera">
+        <img src="typewriter.jpg" alt="A typewriter">
+        <img src="tableturner.jpg" alt="A tableturner">
+      </div>
     </div>
 <!-- Skills-->
 <div>
@@ -132,7 +129,7 @@ body,h2,h3 {font-family: "Times New Roman",font-size:"'Times New Roman', Times, 
           <li><b>Endless</b> Support</li>
           <li>
             <h2>$10</h2>
-            <p style="color:grey">per month</p>
+            <p>per month</p>
           </li>
           <li>
             <button>Sign Up</button>
@@ -148,7 +145,7 @@ body,h2,h3 {font-family: "Times New Roman",font-size:"'Times New Roman', Times, 
           <li><b>Endless</b> Support</li>
           <li>
             <h2>$25</h2>
-            <p style="color:grey">per month</p>
+            <p>per month</p>
           </li>
           <li>
             <button>Sign Up</button>
@@ -164,7 +161,7 @@ body,h2,h3 {font-family: "Times New Roman",font-size:"'Times New Roman', Times, 
           <li><b>Endless</b> Support</li>
           <li>
             <h2>$50</h2>
-            <p style="color:grey"> per month</p>
+            <p> per month</p>
           </li>
           <li>
             <button>Sign Up</button>
@@ -182,14 +179,16 @@ body,h2,h3 {font-family: "Times New Roman",font-size:"'Times New Roman', Times, 
           <p> Phone: +00 151515</p>
           <p> Email: mail@mail.com</p>
           <br>
+        </div>
+        <div></div>
           <form action="/action_page.php" target="_blank">
-            <p><input type="text" placeholder="Name" required name="Name"></p>
-            <p><input type="text" placeholder="Email" required name="Email"></p>
-            <p><input type="text" placeholder="Subject" required name="Subject"></p>
-            <p><input type="text" placeholder="Message" required name="Message"></p>
+            <p><input type="text" placeholder="Name"></p>
+            <p><input type="text" placeholder="Email"></p>
+            <p><input type="text" placeholder="Subject"></p>
+            <p><input type="text" placeholder="Message"></p>
             <p><button type="submit"> SEND MESSAGE</button></p>
           </form>
-            <img src="https://www.w3schools.com/w3images/map.jpg" alt="A map picture in here">
+            <img src="map.jpg" alt="A map picture in here">
         </div>
 </div>
 <!--Footer--> 
