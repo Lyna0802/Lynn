@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<body>
+<title>CSS2</title>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+    .navbar {
+      overflow: hidden;
+      background-color: rgb(242, 238, 238);
+      top: 0;
+      position: fixed;
+      width: 100%;
+    }
+ body{
+        background-image:  url("https://i.pinimg.com/564x/a6/02/84/a6028490e07f6f4d291ca1f1f4174e96.jpg");
+    }
+    h1,p {
+        font-family: 'Times New Roman', Times, serif;
+        color: white;
+        text-align: left;
+    }
+    h1.large {
+        margin-top: 250px;
+        font-size: 400%;
+    }
+</style>
+<header>
+<div class= "navbar">
+    <div class="Home" id="home"><a href="#home" style="color: black;">LOGO</a></div>
+    <div style="">
+        <a href="#about" style="color: black;">ABOUT</a>
+        <a href="#team" style="color: black;">TEAM</a>
+        <a href="#work" style="color: black;">WORK</a>
+        <a href="#pricing" style="color: black;">PRICING</a>
+        <a href="#contact" style="color: black;">CONTACT</a>
+    </div>
+</div>
+<div>
+    <h1 class="large">Start something that matters</h1>
+    <p>Stop wasting valuable time with projects that just isn't you.</p>
+    <p><a href="#about">Learn more and start today</a></p>
+</div>
+<div style="margin-top: 275px;">
+    <i style=color:white class="fa fa-facebook-official w3-hover-opacity"></i>
+    <i style=color:white class="fa fa-instagram w3-hover-opacity"></i>
+    <i style=color:white class="fa fa-snapchat w3-hover-opacity"></i>
+    <i style=color:white class="fa fa-pinterest-p w3-hover-opacity"></i>
+    <i style=color:white class="fa fa-twitter w3-hover-opacity"></i>
+    <i style=color:white class="fa fa-linkedin w3-hover-opacity"></i>
+  </div>
+</header>
+ <!-- About Section -->
+<div class="About" id="about">
+    <h3 style="color: white;">ABOUT THE COMPANY</h3>
+    <p>Key features of our company</p>
+        <p>Responsive</p>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.</p>
+        <p>Passion</p>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.</p>
+        <p>Design</p>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.</p>
+        <p>Support</p>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.</p>
+</div>
+</body>
+</html>
