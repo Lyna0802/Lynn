@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+  <body>
+    <div>
+     
+      <div>
+        <a href="">Return</a>
+        <a href="">Help</a>
+        <a href="">Register / Sign in</a>
+      </div>
+      <div>
+        <ul>
+          <li><a href="">Home</a></li>
+          <li><a href="">Home</a></li>
+          <li>
+            <a href="">
+              <img src="https://huyhaq.github.io/html_lab_1_ecommerge/image/Macc%20Essentials.png" alt="Logo" />
+            </a>
+          </li>
+          <li><a href="">Home</a></li>
+          <li><a href="">Home</a></li>
+        </ul>
+      </div>
+      <div>
+        <div>
+          <h1>Lorem ipsum elit. Esse, vel animi!</h1>
+          <p>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis assumenda rerum veniam optio eveniet blanditiis nemo modi aliquid, iusto ex fugiat dolorem consequatur sapiente officiis corrupti expedita placeat suscipit obcaecati.
+          </p>
+        </div>  
+        <div>
+          <img src="https://huyhaq.github.io/html_lab_1_ecommerge/image/Feature_img1%20(1).png" alt="Image"/>
+        </div>
+      </div>
+    </div>
+    <div>
+      <div>
+        <h2>New Product</h2>
+        <div>
+          <div>
+            <p>Top seller</p>
+            <img src="https://huyhaq.github.io/html_lab_1_ecommerge/image/Product_img.png" alt="Product image"/>
+            <p>Product Name</p>
+          </div>
+          <div>
+            <img src="https://huyhaq.github.io/html_lab_1_ecommerge/image/Product_img.png" alt="Product image"/>
+            <p>Product Name</p>
+          </div>
+
+          <div>
+            <img src="https://huyhaq.github.io/html_lab_1_ecommerge/image/Product_img.png" alt="Product image"/>
+            <p>Product Name</p>
+          </div>
+        </div>
+      </div>
+      <div>
+        <div>
+          <img src="https://huyhaq.github.io/html_lab_1_ecommerge/image/Feature_img1.png" alt="Discount"/>
+        </div>
+        <div>
+          <div>
+            <h1>Product discount</h1>
+            <a href="">View All</a>
+          </div>
+          <div>
+            <div>
+              <p>20% off</p>
+              <img src="https://huyhaq.github.io/html_lab_1_ecommerge/image/Product_img%20(1).png" alt="item"/>
+              <p>Product Name</p>
+              <p>$5000</p>
+            </div>
+
+            <div>
+              <p>20% off</p>
+              <img src="https://huyhaq.github.io/html_lab_1_ecommerge/image/Product_img%20(1).png" alt="item"/>
+              <p>Product Name</p>
+              <p>$5000</p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div>
+        <div>
+          <div>
+            <h1>Product discount</h1>
+            <a href="">View All</a>
+          </div>
+          <div>
+            <div>
+              <p>20% off</p>
+              <img src="https://huyhaq.github.io/html_lab_1_ecommerge/image/Product_img%20(1).png" alt="item"/>
+              <p>Product Name</p>
+              <p>$5000</p>
+            </div>
+            <div>
+              <p>20% off</p>
+              <img src="https://huyhaq.github.io/html_lab_1_ecommerge/image/Product_img%20(1).png" alt="item"/>
+              <p>Product Name</p>
+              <p>$5000</p>
+            </div>
+          </div>
+        </div>
+        <div>
+          <img src="https://huyhaq.github.io/html_lab_1_ecommerge/image/Feature_img1.png" alt="Discount"/>
+        </div>
+      </div>
+      <div>
+        <h1>Covid-10 GuideLines</h1>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum laborum tempore temporibus, saepe consequatur adipisci ipsum officia harum voluptas molestiae repellendus eum corrupti non, porro obcaecati eligendi, dolor numquam. Ullam.        </p>
+      </div>
+    </div>
+    <div>
+      <div>
+        <img src="https://huyhaq.github.io/html_lab_1_ecommerge/image/Macc%20Essentials.png" alt="" />
+      </div>
+      <div>
+        <ul>
+          <li><a href="">Home</a></li>
+          <li><a href="">Home</a></li>
+          <li><a href="">Home</a></li>
+        </ul>
+      </div>
+      <div>
+        <ul>
+          <li><a href="">Blog</a></li>
+          <li><a href="">Blog</a></li>
+          <li><a href="">Blog</a></li>
+        </ul>
+      </div>
+      <div>
+        <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure, quos voluptatem eligendi praesentium reiciendis est porro sint quae officia natus eum eaque! Cupiditate, voluptatem explicabo illum ipsam doloribus molestias. Tempore?
+        </p>
+        <ul>
+            <li><a href="">Facebook</a></li>
+            <li><a href="">Facebook</a></li>
+            <li><a href="">Facebook</a></li>
+            <li><a href="">Facebook</a></li>
+            <li><a href="">Facebook</a></li>
+        </ul>
+      </div>
+    </div>
+  </body>
+</html>
